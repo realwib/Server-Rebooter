@@ -1,4 +1,4 @@
-# Server Restart Monitor
+# Server Restarter & Monitor
 
 ## Overview
 
