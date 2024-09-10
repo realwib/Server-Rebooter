@@ -1,8 +1,8 @@
-# Server Restarter & Monitor
+# Server Rebooter & Monitor
 
 ## Overview
 
-The **Server Restart Monitor** is a Python script designed to automate the process of restarting servers using the Vultr API. After issuing a restart command, the script monitors the server status and provides real-time updates through WhatsApp notifications using the Twilio API.
+The **Server Rebooter & Monitor** is a Python script designed to automate the process of restarting servers using the Vultr API. After issuing a restart command, the script monitors the server status and provides real-time updates through WhatsApp notifications using the Twilio API.
 
 This tool is useful for system administrators and DevOps engineers who need to automate server management tasks and stay informed about server statuses without manual intervention.
 
