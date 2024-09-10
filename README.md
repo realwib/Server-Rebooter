@@ -24,8 +24,8 @@ This tool is useful for system administrators and DevOps engineers who need to a
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/realwib/Server-Restarter.git
-cd Server-Restarter
+git clone https://github.com/realwib/Server-Rebooter.git
+cd Server-Rebooter
 ```
 
 ### 2. Install Dependencies
